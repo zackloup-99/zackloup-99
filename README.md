@@ -9,6 +9,7 @@ I'm passionate about **sarokh**, **chemma**, and **dancing**. I love exploring t
 
 - **Name:** Hamza Ptibeo
 - **Interests:** Sarokh, Chemma, Dancing
+  ![GIF](https://media.giphy.com/media/s2CmOWb35qH5mECTlo/giphy.gif)
 - **Location:** Algiers, Algeria
 
 ## Let's Connect!
