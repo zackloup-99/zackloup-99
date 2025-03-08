@@ -1,7 +1,6 @@
 
 # Hi there, I'm Hamza Ptibeo! 👋
 
-![Dancing GIF]()
 ![Description](https://media.giphy.com/media/13RrqP4cRZZDNlNWaL/giphy.gif)
 
 I'm passionate about **sarokh**, **chemma**, and **dancing**. I love exploring these art forms and sharing my experiences with others.
